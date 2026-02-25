@@ -49,7 +49,7 @@
     "tslib": "^2.0.0",
     "typescript": "~5.9.3",
     "xliff-to-json": "^1.0.4",
-    "zone.js": "~0.15.1"
+    "zone.js": "~0.16.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^21.1.5",
