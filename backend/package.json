@@ -68,7 +68,7 @@
     "unzipper": "^0.12.3",
     "uuid": "^9.0.1",
     "winston": "^3.7.2",
-    "xmlbuilder2": "^3.0.2"
+    "xmlbuilder2": "^4.0.3"
   },
   "overrides": {
     "brace-expansion": "1.1.12",
