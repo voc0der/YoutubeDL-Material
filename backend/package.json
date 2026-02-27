@@ -24,7 +24,7 @@
   "homepage": "",
   "dependencies": {
     "@discordjs/builders": "^1.6.1",
-    "@discordjs/core": "^0.5.2",
+    "@discordjs/core": "^2.4.0",
     "archiver": "^7.0.1",
     "async": "^3.2.3",
     "async-mutex": "^0.5.0",
