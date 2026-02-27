@@ -75,7 +75,7 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "2.2.0",
     "openapi-typescript-codegen": "^0.23.0",
-    "ts-node": "~3.0.4"
+    "ts-node": "~10.9.2"
   },
   "overrides": {
     "@angular-devkit/core": {
