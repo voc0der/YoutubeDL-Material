@@ -23,7 +23,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "@discordjs/builders": "^1.6.1",
+    "@discordjs/builders": "^1.13.1",
     "@discordjs/core": "^0.5.2",
     "archiver": "^7.0.1",
     "async": "^3.2.3",
