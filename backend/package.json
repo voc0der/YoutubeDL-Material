@@ -35,7 +35,7 @@
     "compression": "^1.8.1",
     "config": "^4.4.1",
     "execa": "^5.1.1",
-    "express": "^4.22.1",
+    "express": "^5.2.1",
     "express-rate-limit": "^8.2.1",
     "express-session": "^1.19.0",
     "feed": "^5.2.0",
