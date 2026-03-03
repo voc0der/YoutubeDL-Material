@@ -34,3 +34,7 @@ updates:
     directory: "/backend/"
     schedule:
       interval: "daily"
+    ignore:
+      - dependency-name: "lowdb"
+        update-types:
+          - "version-update:semver-major"
